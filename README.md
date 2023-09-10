@@ -1,0 +1,2 @@
+# ihsancode
+berisikan codingan sederhana
